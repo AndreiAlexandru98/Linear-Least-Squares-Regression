@@ -1,3 +1,3 @@
 # Linear Least Squares Regression
  
-Reconstruct signals using linear least squares regression.
+Signal reconstruction program using linear least squares regression.
